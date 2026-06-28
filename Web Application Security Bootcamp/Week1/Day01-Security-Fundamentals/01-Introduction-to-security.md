@@ -1,24 +1,9 @@
-Perfect. 🔥 Let's start writing your handbook.
-
-> **Save this as:**
->
 > `📂 Module 1 - Security Fundamentals`
 >
 > `📄 01 - Introduction to Security.md`
 
 ---
 
-````markdown
----
-module: Module 1 - Security Fundamentals
-chapter: 01 - Introduction to Security
-day: Day 1
-difficulty: Beginner
-interview_importance: ⭐⭐⭐⭐⭐
-status: Completed
-last_revised:
-hands_on: No
----
 
 # Introduction to Security
 
@@ -584,6 +569,5 @@ Example:
 - Admin APIs
 
 Think about **why each asset is valuable** and **what could happen if it were compromised**.
-````
 
 ---
