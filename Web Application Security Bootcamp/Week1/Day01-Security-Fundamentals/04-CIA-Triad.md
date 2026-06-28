@@ -1,21 +1,7 @@
-Perfect. This completes **Module 1**. Save this as:
-
 📂 **Module 1 - Security Fundamentals**
 
 📄 **04 - CIA Triad.md**
 
----
-
-````markdown
----
-module: Module 1 - Security Fundamentals
-chapter: 04 - CIA Triad
-day: Day 1
-difficulty: Beginner
-interview_importance: ⭐⭐⭐⭐⭐
-status: Completed
-last_revised:
-hands_on: Yes
 ---
 
 # CIA Triad
@@ -680,7 +666,6 @@ Example:
 | MongoDB | ✅ | ✅ | ✅ |
 
 Think like an Application Security Engineer and explain **why** each property matters for that asset.
-````
 
 ---
 

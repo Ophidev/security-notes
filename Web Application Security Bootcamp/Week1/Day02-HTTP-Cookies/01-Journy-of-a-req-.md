@@ -1,44 +1,9 @@
-Absolutely. This is where the **real Web Application Security** begins.
-
-And I want to raise the quality from **8/10 → 10/10**.
-
-Starting from Module 2, our notes will look like a professional technical handbook. They will include:
-
-* 🎯 Learning Objectives
-* 📖 Definitions
-* 🧠 Why was this invented?
-* ⚙️ How it works internally
-* 🌐 Browser Internals
-* 📦 HTTP Internals
-* 🛡 Security Perspective
-* 💻 Express Example
-* 🚀 FitFlow Example
-* 📊 Mermaid Diagrams
-* 🎤 Interview Questions
-* ⚠ Common Mistakes
-* 📌 Revision Notes
-
----
-
-# Save as
-
 ```
 📂 Module 2 - Web Communication & Browser Security Foundations
 
 📄 01 - Journey of a Request.md
 ```
 
----
-
----
-module: Module 2 - Web Communication & Browser Security Foundations
-chapter: 01 - Journey of a Request
-day: Day 2
-difficulty: Beginner
-interview_importance: ⭐⭐⭐⭐⭐
-status: Completed
-last_revised:
-hands_on: Yes
 ---
 
 # Journey of a Request

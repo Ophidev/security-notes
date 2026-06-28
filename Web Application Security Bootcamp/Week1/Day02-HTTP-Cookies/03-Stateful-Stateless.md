@@ -1,15 +1,3 @@
----
-
-module: Module 2 - Web Communication & Browser Security Foundations
-chapter: 03 - Stateful vs Stateless
-day: Day 2
-difficulty: Beginner
-interview_importance: ⭐⭐⭐⭐⭐
-status: Completed
-last_revised:
-hands_on: Yes
--------------
-
 # Stateful vs Stateless
 
 > **One of the most important concepts in Web Development and Web Security is understanding why HTTP is stateless and how applications remember users.**

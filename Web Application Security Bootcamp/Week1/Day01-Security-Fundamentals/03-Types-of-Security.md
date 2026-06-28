@@ -1,21 +1,7 @@
-Perfect. Save this as:
-
 📂 **Module 1 - Security Fundamentals**
 
 📄 **03 - Types of Security.md**
 
----
-
-````markdown
----
-module: Module 1 - Security Fundamentals
-chapter: 03 - Types of Security
-day: Day 1
-difficulty: Beginner
-interview_importance: ⭐⭐⭐⭐⭐
-status: Completed
-last_revised:
-hands_on: No
 ---
 
 # Types of Security
@@ -493,7 +479,6 @@ Classify the following scenarios:
 7. An employee copies customer data onto a USB drive.
 
 Try to identify **all** applicable security domains for each scenario rather than only one.
-````
 
 ---
 

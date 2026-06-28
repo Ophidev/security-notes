@@ -1,15 +1,3 @@
----
-
-module: Module 2 - Web Communication & Browser Security Foundations
-chapter: 04 - Cookies
-day: Day 2
-difficulty: Beginner
-interview_importance: ⭐⭐⭐⭐⭐
-status: Completed
-last_revised:
-hands_on: Yes
--------------
-
 # Cookies
 
 > **Cookies are one of the most misunderstood concepts in Web Development.**

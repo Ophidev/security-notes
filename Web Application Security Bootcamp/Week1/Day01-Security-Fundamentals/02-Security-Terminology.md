@@ -1,21 +1,7 @@
-Excellent. Save this as:
-
 📂 **Module 1 - Security Fundamentals**
 
 📄 **02 - Security Terminology.md**
 
----
-
-````markdown
----
-module: Module 1 - Security Fundamentals
-chapter: 02 - Security Terminology
-day: Day 1
-difficulty: Beginner
-interview_importance: ⭐⭐⭐⭐⭐
-status: Completed
-last_revised:
-hands_on: Yes
 ---
 
 # Security Terminology
@@ -648,6 +634,6 @@ For each scenario, write:
 6. Risk
 
 This exercise trains you to think like an Application Security Engineer instead of only a developer.
-````
+
 
 ---

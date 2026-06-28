@@ -1,15 +1,3 @@
----
-
-module: Module 2 - Web Communication & Browser Security Foundations
-chapter: 02 - HTTP Deep Dive
-day: Day 2
-difficulty: Beginner
-interview_importance: ⭐⭐⭐⭐⭐
-status: Completed
-last_revised:
-hands_on: Yes
--------------
-
 # HTTP Deep Dive
 
 > **HTTP (HyperText Transfer Protocol)** is the communication protocol that allows clients (browsers, mobile apps, Postman, etc.) to communicate with servers over the Web.
